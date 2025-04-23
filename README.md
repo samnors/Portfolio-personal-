@@ -15,3 +15,6 @@ Benbrook High School Graduate Class of 2023
 <tr>
    <td> project image </td>td> <td> project description</td>
 </tr>
+
+ <table>
+ 
